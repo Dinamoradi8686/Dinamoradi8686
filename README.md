@@ -24,15 +24,15 @@ I love you very much <3
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiamohammadei85&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DinaMoradi86&theme=monokai-metallian&hide_border=true"/>
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arshiamohammadei85&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dinamoradi86&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
   <br>
 
 </p>
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=arshiamohammadei85&limit=5&theme=dark&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Dina moradi86&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=arshiamohammadei85&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dina moradi86&con=4&color=1)](https://visitcount.itsvg.in)
